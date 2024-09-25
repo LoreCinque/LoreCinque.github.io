@@ -1,13 +1,5 @@
 import React from "react";
-interface Props {
-  currentBlogItem: {
-    title: string;
-    date?: string;
-    author: string;
-    description: string;
-  };
-}
-const BlogModalText = ({ currentBlogItem }: Props) => {
+const BlogModalText = ({ currentBlogItem }: any) => {
   return (
     <div className="blog-text-container">
       <div className="text-top-section">
