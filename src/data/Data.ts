@@ -829,7 +829,7 @@ const testimonialData5 = [
     id: 2,
     imgSrc: "img/laura.jpg",
     name: "Laura M. Sweeney",
-    designation: "Project Manager, TechnoLabs",
+    designation: "Project Manager, Liip",
     review:
       "As a Senior Full Stack Developer, Lorenzo played a critical role in our web application development. He handled both frontend and backend tasks with ease, delivering a robust, scalable solution. His versatility and problem-solving abilities were key to the success of our project.",
   },
