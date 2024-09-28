@@ -12,24 +12,17 @@ const ServiceSection4 = () => {
           <div className="row">
             <div className="section-heading text-center">
               <h5 className="title-anim">
-                <CustomGsapTextSplit>
-                    What We Do
-                </CustomGsapTextSplit>
-            </h5>
+                <CustomGsapTextSplit>What I Do</CustomGsapTextSplit>
+              </h5>
               <h2 className="title-anim">
-                <CustomGsapTextSplit>
-                    Service And Solutions
-                </CustomGsapTextSplit>
+                <CustomGsapTextSplit>Service And Solutions</CustomGsapTextSplit>
               </h2>
             </div>
           </div>
           <div className="service-row">
             <div className="single-row">
               {serviceData4.map((item) => (
-                <div 
-                className="service-content" 
-                key={item.id}
-                >
+                <div className="service-content" key={item.id}>
                   <div className="animated-shape animated-shape-sm shape-white">
                     <div className="layer-1"></div>
                     <div className="layer-2"></div>
@@ -43,7 +36,7 @@ const ServiceSection4 = () => {
                   </div>
                   <h4 className="service-content-title">
                     <Link href="#">
-                        <CustomGsapTextSplit children={item.title} />
+                      <CustomGsapTextSplit children={item.title} />
                     </Link>
                   </h4>
                   <CustomGsapTextSplitLine className="service-content-desp">

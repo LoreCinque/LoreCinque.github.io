@@ -15,7 +15,7 @@ const ServiceSection6 = ({ style }: Props) => {
           <div className="row">
             <div className="section-heading section-heading-2 text-center">
               <h5 className="text-white ">
-                <CustomGsapTextSplit children="What We Do" />
+                <CustomGsapTextSplit children="What I Do" />
               </h5>
               <h2 className="text-white ">
                 <CustomGsapTextSplit children="Service And Solutions" />
