@@ -92,14 +92,14 @@ const AboutSection8 = () => {
                       </span>
                       <span className="pc-ab-info5-line">
                         <strong>Linkedin:</strong>{" "}
-                        <a href="hhttps://www.linkedin.com/in/lorenz35/">
+                        <a href="https://www.linkedin.com/in/lorenz35/">
                           linkedin.com/in/lorenz35
                         </a>
                       </span>
                       <span className="pc-ab-info5-line">
                         <strong>Website:</strong>{" "}
-                        <a href="https://LoreCinque.github.io/">
-                          LoreCinque.github.io
+                        <a href="https://lorenz35-portfolio.vercel.app/">
+                          lorenz35-portfolio.vercel.app
                         </a>
                       </span>
                     </div>
